@@ -1,8 +1,12 @@
-body{
-    background-color: brown;
+.bg-blue {
+  background: #2996df;
 }
-
-
-h1{
-    color: white;
+.bg-green {
+  background: #31be4f;
+}
+.bg-pink {
+  background: #df2999;
+}
+.bg-gray {
+  background: #a5a5a5;
 }
